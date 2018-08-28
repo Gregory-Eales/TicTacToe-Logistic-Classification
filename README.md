@@ -1,2 +1,2 @@
-# TicTacToe-Neural-Network-Based-Approach
-using a neural network to solve the game of tic tac toe
+# TicTacToe-A-Logistic-Regression-Approach
+using logistic regression to classify the winner of end stage tic tac toe game
